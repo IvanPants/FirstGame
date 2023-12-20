@@ -409,6 +409,9 @@
 "Assets/AiEnemy.cs"
 "Assets/DialogScene.cs"
 "Assets/MainMenu.cs"
+"Assets/NewBehaviourScript.cs"
+"Assets/RestartGame.cs"
+"Assets/SartGame.cs"
 "Assets/SceneChanger.cs"
 "Assets/StarterAssets/FirstPersonController/Scripts/BasicRigidBodyPush.cs"
 "Assets/StarterAssets/FirstPersonController/Scripts/FirstPersonController.cs"
@@ -453,6 +456,7 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
+"Assets/WinGame.cs"
 -langversion:9.0
 
 /deterministic
